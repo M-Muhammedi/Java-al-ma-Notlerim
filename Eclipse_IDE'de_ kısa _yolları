@@ -1,0 +1,15 @@
+
+Eclipse IDE'de kullanabileceğiniz bazı temel kısayollar şunlardır:
+
+Ctrl + Space: Kod tamamlama önerilerini görüntüler.
+Ctrl + Shift + O: Kullanılmayan importları kaldırır ve eksik olan importları ekler.
+Ctrl + Shift + F: Koduları otomatik olarak biçimlendirir(düzelter).
+Ctrl + Shift + R: Dosyalar arasında hızlı bir şekilde gezinmenizi sağlar.
+Ctrl + Shift + T: Sınıf dosyaları arasında hızlı bir şekilde gezinmenizi sağlar.
+Ctrl + 1: Hızlı düzeltme ve öneriler menüsünü açar.
+Ctrl + / veya Ctrl + Shift + /: Seçili satır(ları) yorum satırına dönüştürür veya yorum satırı işaretini kaldırır.
+Ctrl + Shift + F11: Son başlatılan uygulamayı yeniden başlatır.
+Ctrl + Shift + L: Eclipse'deki tüm kısayolları gösteren pencereyi açar.
+Ctrl + D: Satırı siler.
+Ctrl + Shift + C: Seçili satır(ları) yorum satırına dönüştürür veya yorum satırı işaretini kaldırır.
+Alt + Shift + R: Seçili değişkenin adını değiştirmenizi sağlar.
